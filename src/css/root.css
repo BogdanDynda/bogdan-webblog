@@ -1,0 +1,15 @@
+#sidebar {
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+}
+
+    #sidebar nav {
+        display: flex;
+        gap: 15px;
+        margin-top: 35px;
+    }
+
+#detail {
+    padding: 20px;
+}
